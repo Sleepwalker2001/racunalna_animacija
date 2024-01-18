@@ -1,0 +1,20 @@
+﻿  lab1_Paulo_Erak.cpp
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(142,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(174,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(175,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(176,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(177,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(180,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(181,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(182,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(183,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(195,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(196,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(197,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(274,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\FER\7. semestar\Računalna animacija\Please\Please\lab1_Paulo_Erak.cpp(284,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Please.vcxproj -> D:\FER\7. semestar\Računalna animacija\Please\x64\Debug\Please.exe
+  D:\FER\7. semestar\Racunalna animacija\IRG\Biblioteke\glew-1.13.0\bin\Release\x64\glew32.dll
+  1 File(s) copied
+  D:\FER\7. semestar\Racunalna animacija\IRG\Biblioteke\freeglut-2.8.1\lib\x64\Debug\freeglut.dll
+  1 File(s) copied

@@ -1,0 +1,36 @@
+﻿  čestice.cpp
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(112,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(116,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(116,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(117,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(117,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(118,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(118,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(119,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(119,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(122,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(169,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(170,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(171,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(187,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(188,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(189,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(197,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(219,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(240,54): warning C4305: '-=': truncation from 'double' to 'float'
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(241,56): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(253,25): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(254,25): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(255,25): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(285,33): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(286,33): warning C4305: '-=': truncation from 'double' to 'float'
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(287,33): warning C4305: '-=': truncation from 'double' to 'float'
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(288,33): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(327,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(328,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\FER\7. semestar\Računalna animacija\lab2\lab2\čestice.cpp(359,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab2.vcxproj -> D:\FER\7. semestar\Računalna animacija\lab2\x64\Debug\lab2.exe
+  D:\FER\7. semestar\Racunalna animacija\IRG\Biblioteke\glew-1.13.0\bin\Release\x64\glew32.dll
+  1 File(s) copied
+  D:\FER\7. semestar\Racunalna animacija\IRG\Biblioteke\freeglut-2.8.1\lib\x64\Debug\freeglut.dll
+  1 File(s) copied
